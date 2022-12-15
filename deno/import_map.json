@@ -1,0 +1,9 @@
+{
+    "imports": {
+        "https://deno.land/x/bearz_runtime@$RUNTIME_VERSION/": "./runtime/",
+        "https://deno.land/x/bearz_error@$ERROR_VERSION/": "./error/",
+        "https://deno.land/x/bearz_os@$OS_VERSION/": "./os/",
+        "https://deno.land/x/bearz_testing@$TESTING_VERSION/": "./testing/",
+        "https://deno.land/x/bearz_random@$RANDOM_VERISON/": "./random/"
+    }
+}

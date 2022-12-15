@@ -1,0 +1,18 @@
+export {
+    assert,
+    assertAlmostEquals,
+    assertArrayIncludes,
+    assertEquals,
+    assertExists,
+    assertFalse,
+    assertInstanceOf,
+    assertMatch,
+    assertNotEquals,
+    assertNotMatch,
+    assertNotStrictEquals,
+    assertRejects,
+    assertStrictEquals,
+    assertStringIncludes,
+    assertThrows,
+    fail,
+} from 'https://deno.land/std@0.168.0/testing/asserts.ts';

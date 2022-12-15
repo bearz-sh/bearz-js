@@ -1,0 +1,42 @@
+{
+    "folders": [
+        {
+            "name": "root",
+            "path": "./"
+        },
+        {
+            "name": "eng",
+            "path": "./_eng"
+        },
+        {
+            "name": "os",
+            "path": "./os"
+        },
+        {
+            "name": "errors",
+            "path": "./errors"
+        },
+        {
+            "name": "runtime",
+            "path": "./runtime"
+        },
+        {
+            "name": "testing",
+            "path": "./testing"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "errors": true
+        },
+        "deno.enable": true,
+        "deno.unstable": true,
+        "deno.importMap": "./import_map.json"
+    }
+}

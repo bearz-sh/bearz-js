@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "errors": true,
+        "fs": true,
+        "global": true,
+        "os": true,
+        "path": true,
+        "runtime": true,
+        "_internal": true
+    }
+}
